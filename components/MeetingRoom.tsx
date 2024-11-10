@@ -2,7 +2,6 @@ import { cn } from "@/lib/utils";
 import {
   CallControls,
   CallParticipantsList,
-  CallStats,
   CallStatsButton,
   PaginatedGridLayout,
   SpeakerLayout,
